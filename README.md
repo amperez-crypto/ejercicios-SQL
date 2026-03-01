@@ -1,5 +1,4 @@
 # ejercicios-SQL
-Entrenamiento
 
 Ejercicios
 
@@ -35,3 +34,4 @@ Ejercicios
 28. Crea un reporte de "clientes de riesgo": aquellos cuya última compra fue hace más de 180 días a partir de hoy.
 29. ¿Cuál es el porcentaje de ventas (por ingresos) que provienen del cupón "ULTIMO_SUSPIRO"?
 30. Genera un análisis demográfico: para cada rango de edad, cuenta clientes únicos, número de transacciones e ingresos totales.
+
